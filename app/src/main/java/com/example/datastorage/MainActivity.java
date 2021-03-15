@@ -57,6 +57,6 @@ public class MainActivity extends AppCompatActivity {
 System.out.println("This is our first commit");
 
 its Monday
-
+        System.out.println("This is our third commit");
     }
 }
